@@ -1,0 +1,3 @@
+<ExtensionObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Definition.xsd" Label="Read Variables" Description="Read all variables from document" >
+	<Initiate Name="Caption.Text" value="Read Variables" />
+</ExtensionObject>
